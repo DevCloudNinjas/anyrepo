@@ -1,2 +1,3 @@
-# anyrepo
-This is my GitHub repository
+# My Project
+
+This is an auto-generated README file.
